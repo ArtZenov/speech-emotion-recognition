@@ -1,0 +1,1 @@
+Crash cource for Git
